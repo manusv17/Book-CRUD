@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/books/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/books/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/ocramius/proxy-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/psr/link" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/asset" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/debug-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/expression-language" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/form" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/intl" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/monolog-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/notifier" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/phpunit-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-intl-icu" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/security-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/security-core" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/security-csrf" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/security-guard" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/security-http" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/twig-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/validator" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/web-link" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/web-profiler-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/twig/extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/books/vendor/zendframework/zend-eventmanager" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

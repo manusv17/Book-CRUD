@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Error{% endblock %}
+
+{% block body %}
+    <div class="alert alert-warning" role="alert">
+        <h4 class="alert-heading">Warning!</h4>
+        <p>The name or the ISBN of the book is being used. Please enter a different one</p>
+        <hr>
+        <p class="mb-0"><a href="{{ path('book_index') }}">Back to list</a></p>
+        <hr>
+        <p class="mb-0"><a href="{{ path('book_new') }}">Create new</a></p>
+    </div>
+{% endblock %}
